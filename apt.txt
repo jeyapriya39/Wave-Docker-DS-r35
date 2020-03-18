@@ -1,3 +1,4 @@
 wget
-rjags
+jags
+vim
 apt-utils
