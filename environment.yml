@@ -130,7 +130,7 @@ dependencies:
   - joblib=0.13.2=py37_0
   - jpeg=9b=h024ee3a_2
   - jsonschema=3.0.1=py37_0
-  - jupyter_client=6.1.5=py37_0
+  - jupyter_client=6.1.5
   - jupyter_console=6.0.0=py37_0
   - jupyter_core=4.6.0=py37_0
   - jupyterlab=0.35.4=py37hf63ae98_0
