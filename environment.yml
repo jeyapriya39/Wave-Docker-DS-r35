@@ -204,7 +204,7 @@ dependencies:
   - openblas=0.2.20=h6742782_0
   - openjdk=8.0.112=zulu8.19.0.1_3
   - openpyxl=2.6.1=py37_1
-  - openssl-1.1.1a
+  - openssl=1.1.1=h7b6447c_0
   - packaging=19.0=py37_0
   - pandas=0.24.2=py37he6710b0_0
   - pandoc=2.2.3.2=0
