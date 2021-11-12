@@ -2,3 +2,4 @@ wget
 jags
 vim
 apt-utils
+libssl-dev
